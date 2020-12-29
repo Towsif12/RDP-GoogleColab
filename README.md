@@ -8,6 +8,7 @@
 ```
 
 **_If you want to install Tor_**
+
 **Cell 2**
 ```
 ! add-apt-repository universe && sudo apt update
