@@ -7,7 +7,7 @@
 ! ./RDP-XFCE.sh
 ```
 
-**_If you want to install Tor_**
+(**_If you want to install Tor_**)
 
 **Cell 2**
 ```
