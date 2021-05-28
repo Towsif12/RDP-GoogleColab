@@ -7,9 +7,8 @@
 ! ./RDP-XFCE.sh
 ```
 
-(**_If you want to install Tor_**)
-
 **Cell 2**
+(**_If you want to install Tor_**)
 ```
 ! add-apt-repository universe && sudo apt update
 ! apt install torbrowser-launcher
